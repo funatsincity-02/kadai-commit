@@ -5,5 +5,5 @@ get '/' do
 end
 
 post '/' do
-  erb :index
+  erb :index 
 end
